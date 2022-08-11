@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="960px" height="540px" viewBox="0 0 960 540" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="blob-scene" transform="matrix(1 0 0 -1 0 540)">
+    <path d="M0 0L960 0L960 540L0 540L0 0Z" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(716.6391 0)">
+      <path d="M243.361 243C215.961 221.2 188.661 199.5 168.361 181.1C148.061 162.7 134.861 147.7 107.561 135.8C80.3609 123.9 39.0609 115.1 18.8609 93C-1.33911 70.9 -0.539124 35.4 0.360901 0L243.361 0L243.361 243Z" id="Shape" fill="#E3EDFF" fill-rule="evenodd" stroke="none" />
+      <path d="M243.361 121.5C229.661 110.6 215.961 99.7 205.861 90.5C195.761 81.3 189.061 73.8 175.461 67.9C161.861 61.9 141.261 57.5 131.061 46.5C120.961 35.4 121.461 17.7 121.861 0L243.361 0L243.361 121.5Z" id="Shape" fill="#C6DBFF" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="Group" transform="translate(0 296.69608)">
+      <path d="M0 0.303925C35.8 -0.496063 71.6 -1.19608 93 18.8039C114.4 38.8039 121.4 79.7039 138.6 104.704C155.8 129.804 183.2 139.004 202.3 159.504C221.4 180.004 232.2 211.604 243 243.304L0 243.304L0 0.303925Z" id="Shape" fill="#E3EDFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 121.804C17.9 121.404 35.8 121.004 46.5 131.004C57.2 141.104 60.7 161.504 69.3 174.004C77.9 186.504 91.6 191.204 101.2 201.404C110.7 211.604 116.1 227.504 121.5 243.304L0 243.304L0 121.804Z" id="Shape" fill="#C6DBFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
